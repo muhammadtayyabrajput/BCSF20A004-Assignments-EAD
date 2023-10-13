@@ -1,0 +1,10 @@
+H:\PUCIT\Enterprise Dev\Asg01\bin\Debug\Asg01.exe.config
+H:\PUCIT\Enterprise Dev\Asg01\bin\Debug\Asg01.exe
+H:\PUCIT\Enterprise Dev\Asg01\bin\Debug\Asg01.pdb
+H:\PUCIT\Enterprise Dev\Asg01\obj\Debug\Asg01_bcs20a004.csproj.AssemblyReference.cache
+H:\PUCIT\Enterprise Dev\Asg01\obj\Debug\Asg01.Form1.resources
+H:\PUCIT\Enterprise Dev\Asg01\obj\Debug\Asg01.Properties.Resources.resources
+H:\PUCIT\Enterprise Dev\Asg01\obj\Debug\Asg01_bcs20a004.csproj.GenerateResource.cache
+H:\PUCIT\Enterprise Dev\Asg01\obj\Debug\Asg01_bcs20a004.csproj.CoreCompileInputs.cache
+H:\PUCIT\Enterprise Dev\Asg01\obj\Debug\Asg01.exe
+H:\PUCIT\Enterprise Dev\Asg01\obj\Debug\Asg01.pdb
